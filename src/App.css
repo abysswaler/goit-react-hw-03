@@ -1,0 +1,12 @@
+body {
+    margin: 0 auto;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+    padding: 40px 0;
+    margin: 0;
+}
